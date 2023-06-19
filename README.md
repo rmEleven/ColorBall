@@ -42,7 +42,6 @@
 ├── main.cpp               # 项目运行入口
 ├── main.exe               # 可执行程序
 │
-├── .gitignore             # git忽略配置
 ├── README.md              # 项目说明文档
 │
 └── images                 # 文档需要的图片
