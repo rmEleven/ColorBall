@@ -43,7 +43,6 @@
 ├── main.exe               # 可执行程序
 │
 ├── README.md              # 项目说明文档
-│
 └── images                 # 文档需要的图片
     ├── ...
     └── ...
@@ -57,7 +56,7 @@
 
 **方法二：**
 
-在 `Visual Studoi` 中运行 `main.cpp` 文件
+在 `Visual Studio` 中运行 `main.cpp` 文件
 
 **说明**
 
