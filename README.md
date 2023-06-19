@@ -56,7 +56,7 @@
 
 **方法二：**
 
-在 `Visual Studio` 中运行 `main.cpp` 文件
+在 `Visual Studio` 中以 `Release x86` 模式运行 `main.cpp` 文件
 
 **说明**
 
